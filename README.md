@@ -1,5 +1,5 @@
 JDemetra+ FAQ
 ============
 
-Here are some guides and FAQ for JDemetra+.
+Here are some guides and FAQ for **JDemetra+**.
 
