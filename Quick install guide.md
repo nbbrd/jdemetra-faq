@@ -20,7 +20,7 @@ JDemetra+ runs on the **Java SE Runtime Environment (JRE) version 7 update 25 or
 ##Installation instructions
 
 1. Download the platform-independent zip package at:  
-   [https://github.com/jdemetra/jdemetra-app/releases/latest](https://github.com/jdemetra/jdemetra-app/releases/latest)
+   [https://joinup.ec.europa.eu/nexus/content/repositories/releases](https://joinup.ec.europa.eu/nexus/content/repositories/releases/eu/europa/ec/joinup/sat/nbdemetra-app/1.5.4/nbdemetra-app-1.5.4.zip)
 2. Extract it to any folder on your system
 3. Run the executable file located in the nbdemetra/bin directory:  
    `nbdemetra.exe` for Windows  
